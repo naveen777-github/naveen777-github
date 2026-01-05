@@ -19,11 +19,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: naveen777-github
 
-      - name: Debug - show generated files
+      - name: Debug username + output
         run: |
+          echo "Using USERNAME=naveen777-github"
           ls -la
-          ls -la profile-3d-contrib || true
-          git status
+          ls -la *.svg || true
+          head -n 30 profile-night-green.svg || true
 
       - name: Commit & Push
         run: |
