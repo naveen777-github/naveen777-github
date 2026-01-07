@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈’𝐦 𝐍𝐚𝐯𝐞𝐞𝐧 𝐑𝐚𝐲𝐚𝐩𝐮𝐝𝐢! <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> 
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈’𝐦 𝐍𝐚𝐯𝐞𝐞𝐧 𝐑𝐚𝐲𝐚𝐩𝐮𝐝𝐢! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </h2>
 </div>
@@ -23,7 +23,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> </div>
 
 
-<img src="./profile-night-rainbow.svg?v=20260104" />
+
 
 
 
