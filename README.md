@@ -39,7 +39,7 @@ My interests include full stack development, data science and data analysis to s
 
 **🤖 Machine Learning & Data Science**
 <br />
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,powerbi" />
 
 **☁️ Cloud, DevOps & Tools**
 <br />
